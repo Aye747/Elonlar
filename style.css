@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+
+
+p,
+h1,
+h2,
+h3,
+h4,
+a,
+div,
+li {
+    font-family: 'Alata', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+
+
+/* navbar start */
+
+#navbar {
+    background: #00114b;
+
+}
+#navbar .container .non {
+    margin-top: 30px;
+    margin-right: 200px;
+}
+
+#navbar img {
+width: 200px;
+padding-left: 200px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+#navbar i {
+    color: #ffffff;
+    
+}
+
+
+#navbar .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boob {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.boob h3 {
+color: #00114b;
+}
+
+.look {
+    color: rgb(122, 122, 122);
+}
+
+
+
+
+.css-1k5g94-BaseStyles {
+    background-color: black;
+    padding: 10px;
+}
+
+
+.css-1c0rtj6 {
+    border: rgb(245, 245, 245)
+    1rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    background-color: rgb(236, 236, 236);
+}
+
+
+.css-mxrtzk {
+    background-color: #ffffff;
+}
+
+
+.css-v49bm8 {
+   border: #ffffff; 
+   background-color: rgb(241, 241, 241);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.css-1x4iwgr {
+    background-color: #00114b;
+    color: #ffffff;
+    padding: 15px;
+    border: 2rem #ffffff;
+}
+
+
+
+.css-taj84h {
+    background-color: rgb(236, 236, 236);
+    color: #000000;
+    padding: 15px;
+    border: 2rem #ffffff;
+}
+
+.css-6nkx8o-Text {
+color: #00114b;
+}
+
+
+
+.css-rflibz-Text {
+    
+    color: rgb(119, 119, 119);
+}
+
+
+#footer {
+    background-color: #00114b;
+    padding: 100px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#footer p {
+    color: rgb(0, 255, 221);
+}
+
+
+
+#footer h2 {
+    color: rgb(255, 255, 255);
+}
+
+
+
+.css-1k5g94-BaseStyles {
+    background-color: #00114b;
+    color: #ffffff;
+    border: 1rem #fff;
+   
+}
+
+
+
+
+.css-2wgkul-BaseStyles {
+    color: #00114b;
+    background-color: #fff;
+    border: 1rem #00114b;
+  border-color: #00114b;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.eng button {
+    background-color: #00114b;
+
+
+}
+
+
+
+
+.fal fa-toggle-on {
+    width: 20px;
+}
+
+
